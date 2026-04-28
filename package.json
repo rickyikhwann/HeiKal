@@ -1,0 +1,36 @@
+{
+  "name": "special-copy-whisper-ebpba",
+  "productName": "special-copy-whisper-ebpba",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "RICKY IKHWAN",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "@google/genai": "1.50.1",
+    "@tailwindcss/vite": "0.0.0-insiders.3aac5da",
+    "@vitejs/plugin-react": "6.0.1",
+    "clsx": "2.1.1",
+    "dotenv": "17.4.2",
+    "express": "4.22.1",
+    "lucide-react": "1.11.0",
+    "motion": "12.37.0",
+    "react": "0.0.0-experimental-561ed529-20260423",
+    "react-dom": "0.0.0-experimental-561ed529-20260423",
+    "recharts": "3.8.1",
+    "tailwind-merge": "3.5.0-dev.e20911d7cf3d80609df5aec5d0df7041f3be132f",
+    "vite": "8.0.10",
+    "@types/express": "5.0.6",
+    "@types/node": "25.6.0",
+    "autoprefixer": "10.5.0",
+    "tailwindcss": "0.0.0-insiders.3aac5da",
+    "tsx": "4.21.0",
+    "typescript": "6.0.0-dev.20260416"
+  },
+  "devDependencies": {
+    "electron": "41.1.1"
+  }
+}
